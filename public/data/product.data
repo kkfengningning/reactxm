@@ -1,0 +1,31 @@
+[{
+	"url":"/images/product1.png",
+	"title":"Lipstick With Color Variants",
+	"id":1,
+	"price":"$28"
+},{
+	"url":"/images/product2.png",
+	"title":"Soap Natural Ingredients",
+	"id":2,
+	"price":"$11"
+},{
+	"url":"/images/product3.png",
+	"title":"Makeup Brush With Bags",
+	"id":3,
+	"price":"$18"
+},{
+	"url":"/images/product4.png",
+	"title":"Oil With Real Fruit Aroma",
+	"id":4,
+	"price":"$32"
+},{
+	"url":"/images/product5.png",
+	"title":"Modern hair shaver",
+	"id":5,
+	"price":"$42"
+},{
+	"url":"/images/product6.png",
+	"title":"Cheap Original Scissor",
+	"id":6,
+	"price":"$22"
+}]

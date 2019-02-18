@@ -1,0 +1,24 @@
+[{    
+     "url":"/images/detail-ban01.png",
+     "id" : 1  ,
+     "jieshao" : "女装1号" ,
+     "price" : 111 
+    },
+    {
+        "url":"/images/detail-ban02.png",
+        "id" : 2 ,
+        "jieshao" : "女装2号" ,
+        "price" : 22 
+    },
+    {
+        "url":"/images/detail-ban03.png",
+        "id" : 3 ,
+        "jieshao" : "女装3号" ,
+        "price" : 133 
+    },
+    {
+        "url":"/images/detail-ban04.png",
+        "id" : 4 ,
+        "jieshao" : "女装4号" ,
+        "price" : 141 
+    }] 

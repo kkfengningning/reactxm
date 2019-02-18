@@ -1,0 +1,30 @@
+[{
+	"title":"女装1号",
+	"price" : 111 ,
+	"id":1,
+	"admin":"adminza",
+	"conten":"AA Provident molestiae magnam reprehenderit. Doloribus accusantium, animi nostrum sunt laborum?",
+	"url":"/images/detail-ban01.png"
+	
+},{
+	"title":"女装2号",
+	"price" : 111 ,
+	"admin":"adminwan",
+	"id":2,
+	"conten":"BB Provident molestiae magnam reprehenderit. Doloribus accusantium, animi nostrum sunt laborum?",
+	"url":"/images/detail-ban02.png"
+},{
+	"title":"女装3号",
+	"price" : 111 ,
+	"admin":"adminyan",
+	"id":3,
+	"conten":"CC Provident molestiae magnam reprehenderit. Doloribus accusantium, animi nostrum sunt laborum?",
+	"url":"/images/detail-ban03.png"
+},{
+	"title":"女装4号",
+	"price" : 111 ,
+	"admin":"adminab",
+	"id":4,
+	"conten":"DD Provident molestiae magnam reprehenderit. Doloribus accusantium, animi nostrum sunt laborum?",
+	"url":"/images/detail-ban04.png"
+}]
