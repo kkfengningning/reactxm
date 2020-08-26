@@ -47,7 +47,7 @@ class Home extends Component{
 				<dd>
 					<Link to="/list">
 						<img src="./images/index-03.png"/>
-						<b>切糕</b>
+						<b>切糕qqqqqqqq</b>
 					</Link>
 				</dd>
 				<dd>
